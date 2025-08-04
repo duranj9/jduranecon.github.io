@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: jduranecon.github.io/al-folio/sitemap.xml
+Sitemap: jduranecon.github.io/sitemap.xml
